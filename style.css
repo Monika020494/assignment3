@@ -1,0 +1,11 @@
+/* Custom styles for tall section */
+.section-content {
+  background-color: #f7f7f7;
+  height: 1000px;
+  padding: 20px;
+}
+
+/* Mobile dropdown background */
+.navbar-collapse {
+  background-color: #ddd;
+}
